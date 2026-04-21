@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkproyecto2_asertiva=self.webpackChunkproyecto2_asertiva||[]).push([["484"],{5112(e){e.exports=JSON.parse('{"metadata":{"permalink":"/CA_S1_G7/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":0,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
