@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproyecto2_asertiva=self.webpackChunkproyecto2_asertiva||[]).push([["833"],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[]}')}}]);
